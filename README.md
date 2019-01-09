@@ -11,4 +11,4 @@ The list of bad words can be modified, the list of good words that replace them 
 Change "This sucks" into "This chocolate"
 
 ## Improvements:
-Map some bad words with relevant good word. Instead of changin "This sucks" into "This chocolate", it would say "This is inconvenient"
+Map some bad words with relevant good word. Instead of changing "This sucks" into "This chocolate", it would say "This is inconvenient"
